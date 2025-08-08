@@ -25,10 +25,11 @@ This project focuses on analyzing **Zepto’s inventory data** using SQL to iden
 - Found seasonal peaks in demand to plan inventory better.  
 - Suggested reorder points to prevent stockouts.
 
-- 👩‍💻 Author
+ 
+ 👩‍💻 Author
 Pooja Khaire – MBA in Business Analytics | Skilled in SQL, Excel, Power BI, Tableau, and Data Analytics.
 Connect with me : https://www.linkedin.com/in/pooja-khaire-138361324/
 
 
 
-## 📂 Project Structure  
+ 
